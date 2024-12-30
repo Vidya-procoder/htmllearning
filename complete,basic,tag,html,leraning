@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<head>
+    <body>
+        <title> hello</title>
+        <h1> web development</h1>
+        <h2>
+            front end development -
+        </h2>
+        <h3>.....1.HTML</h3>
+        <h3>.....2.CSS</h3>
+        <h4>.....2.1 boostrap</h4>
+        <h3>.....3.js</h3>
+        <h4>.....3.1 angular</h4>
+        <h4>.....3.2 react</h4>
+        <p>click below to practice on codepen</p> 
+        <a href ="https://codepen.io/pen/">link tag</a><br>
+        <img src="title img.jpeg" alt="imag">
+        <center>
+        <figure>
+            <img src="title img.jpeg" alt="Example image" width="100px" lenght="100px">
+            <figcaption><a href="https://codepen.io/pen/"> online development</a></figcaption>
+          </figure>
+        </center>
+        <ol>
+            <li>ordered list</li>
+        </ol>
+        <ul>
+            <li>unordered list</li>
+        </ul>
+        <hr>
+        <iframe src="https://www.imdb.com/title/tt15135188/"></iframe><hr>
+        <center><h1>IPL TEAM</h1>
+<table border ="1">
+    <tr>
+        <td>name</td>
+        <td>Age</td>
+        <td>Team</td>
+    </tr>
+    <tr>
+        <td>vidya</td>
+        <td>20</td>
+        <td>RCB</td>
+    </tr>
+    <tr>
+        <td>sri</td>
+        <td>20</td>
+        <td>CSk</td>
+    </tr>
+</table>
+<hr>
+
+</center>
+<form>
+    NAME : <input type="text"><br>
+    AGE : <input type="number">
+    <input type="submit">
+    <input type ="reset">
+    <hr>
+</form>
+<form>
+    <table >
+        <tr>
+            <td>NAME</td>
+            <td><input  type ="text"></td>
+        </tr>
+        <tr>
+            <td>AGE</td>
+            <td><input  type ="number"></td>
+        </tr>
+        <tr>
+            <td>AGE</td>
+            <td><input  type ="number"></td>
+        </tr>
+        <tr>
+            <td><input type="submit"></td>
+            <td><input  type ="reset"></td>
+        </tr>
+
+    </table>
+</form>
+<hr>
+<form>
+    <center><h2> Student Registration Form</h2>
+    <table >
+        <tr>
+            <td>NAME</td>
+            <td><input  type ="text" placeholder=" enter your name"></td>
+        </tr>
+        <tr>
+            <td>AGE</td>
+            <td><input  type ="number" placeholder="enter your age"></td>
+        </tr>
+        <tr>
+            <td>Address</td>
+            <td><input  type ="number" placeholder="enter your address"></td>
+        </tr>
+        <tr>
+            <td>DEPARTMENT</td>
+            <td>
+                <select>
+                    <option>JAVA</option>
+                    <option>PYHTON</option>
+                    <option>SQL</option>
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <td>UPLOAD YOUR RESUME</td>
+            <td><input  type ="file"></td>
+        </tr>
+        <tr>
+            <td><input type="submit"></td>
+            <td><input  type ="reset"></td>
+        </tr>
+        
+
+    </table>
+</form>
+</center>
+    </body>
+</head>
